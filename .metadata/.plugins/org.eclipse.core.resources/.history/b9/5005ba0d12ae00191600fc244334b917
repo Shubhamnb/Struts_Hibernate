@@ -1,0 +1,5 @@
+package com.bridge.action;
+
+public class RegisterAction {
+
+}

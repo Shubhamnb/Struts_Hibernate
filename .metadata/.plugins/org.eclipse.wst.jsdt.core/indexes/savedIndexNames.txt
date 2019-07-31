@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+/home/admin3/Desktop/struts/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3359581603.index
+431152566.index
+431152566.index
+2397669194.index
+2268351318.index
+2413672215.index
+951480836.index
+3378340878.index

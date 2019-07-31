@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+/home/admin3/Desktop/struts/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/431152566.index
+/Struts2/src/main/resources

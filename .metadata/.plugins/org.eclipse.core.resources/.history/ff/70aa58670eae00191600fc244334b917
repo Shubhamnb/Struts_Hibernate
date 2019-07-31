@@ -1,0 +1,9 @@
+package com.bridge.action;
+
+import org.apache.struts2.convention.annotation.Action;
+import org.apache.struts2.convention.annotation.Result;
+
+@Action(value="login",results={@Result(name="success",location="/resultPages/result.jsp")})  
+public class LoginAction {
+
+}

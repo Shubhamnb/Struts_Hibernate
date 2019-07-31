@@ -1,0 +1,15 @@
+package com.bridge.dao;
+
+import org.hibernate.SessionFactory;
+
+import com.bridge.pojo.User;
+import com.bridge.utility.HibernateUtility;
+
+public class DaoImpl implements IDao{
+
+	public boolean register(User user) {
+		SessionFactory sessionFactory = HibernateUtility.getSessionFactory();
+		return false;
+	}
+
+}

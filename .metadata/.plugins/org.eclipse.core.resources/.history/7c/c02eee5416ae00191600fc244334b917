@@ -1,0 +1,12 @@
+package com.bridge.dao;
+
+import com.bridge.pojo.User;
+
+public class DaoImpl implements IDao{
+
+	public boolean register(User user) {
+		
+		return false;
+	}
+
+}

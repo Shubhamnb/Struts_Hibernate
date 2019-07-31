@@ -1,0 +1,5 @@
+package com.bridge.pojo;
+
+public class User {
+
+}

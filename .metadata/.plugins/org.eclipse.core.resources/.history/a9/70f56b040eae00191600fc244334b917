@@ -1,0 +1,8 @@
+package com.bridge.action;
+
+
+
+@Action(value="login",results={@Result(name="success",location="/resultPages/result.jsp")})  
+public class LoginAction {
+
+}
